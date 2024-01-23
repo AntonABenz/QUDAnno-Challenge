@@ -115,7 +115,6 @@
 >>>>> but it smells of urine.
 >>>>> [Q3.4.1 Why does Mrs Simpsons room smell like urine?] 
 >>>>>> Susie suspects Mrs Simpson wets the bed and doesn’t know. 
-
 >> [Q2.1 What about Susies work?]
 >>> Susie can go a whole twelve-hour shift without the bathroom. 
 >>> [Q2.1.1 Can her coworkers to it too?]
@@ -158,8 +157,7 @@
 >>>>>> [Q1.10.3 Doesn't she hear anything else?]
 >>>>>>> and the only sound is her circling, oily breath. 
 >>>>>>> [Q1.10.4 What will eventually disturb the silence?]
->>>>>>>> Then she’ll hear the sticky of a defect from further along the belt 
-and she’ll remember where she is. 
+>>>>>>>> Then she’ll hear the sticky of a defect from further along the belt and she’ll remember where she is. 
 >> [Q1.11 What does Susie do now, after she her hands through the running tap?]
 >>> She slips into the water. 
 >>> [Q1.11.1 What does she do directly after she slips into the water?]
