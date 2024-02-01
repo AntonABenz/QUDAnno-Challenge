@@ -1,62 +1,62 @@
-[Q0 What is the way things are?] 
-└──  [Q1 What events did the Prime Minister face recently?]
-    ├──  Laura Kuenssberg Prime Minister, in the last few weeks, you've lost major votes in the Commons,
-    ├──  you've chucked some MPs out of your own party,
-    ├──  the highest court in the land has found you broke the law and gave the wrong advice to the Queen.
-    └──  [Q2 How do you (the PM) think this is going?]
-        ├──  Prime Minister Well, I think that it's going about as well as could be, especially, if not slightly better. 
-        └──  [Q3 LK Really?] 
-            ├──  PM Yeah.
-            ├──  [Q4.1 Why is the current situation as good as it could be?]
-            │   └──  Because look, this was always going to be a very difficult time.
-            └──  [Q4.2 Why was this always going to be a difficult time?]
-                ├──  What we've got, basically, is a situation in which the people voted for leaving the EU in the greatest expression of popular will in favour of any party or proposition in history.
-                ├──  And, yes, there are many people in all sorts of positions, who don't think that was the right way to go.
-                └──  [Q5 What is your (the PMs) job in this situation?]
-                    ├──  And I am tasked with getting it over the line, getting Brexit done by October 31.
-                    └──  [Q6 How is 'getting the Brexit done' working, with October 31 approaching?] 
-                        ├──  And I think we always knew that as we came up to that deadline, things would get choppy, but...
-                        └──  [Q7 LK You are blaming all of your woes on people who are trying to stop Brexit?]
-                            ├──  PM No, I think it's just the just the predicament, is just the it's just the situation, that we're in as a country.
-                            └──  [Q8 How would you assess the situation that the UK is in as a country?]
-                                ├──  And I think that things are actually much much better than they, than the political situation, might lead you to believe.
-                                └──  [Q9 What makes you think that things are much better than one might believe?]
-                                    ├──  Unemployment is at record lows.
-                                    ├──  Foreign direct investment is at record highs.
-                                    ├──  We're seeing this country at the cutting edge of innovation in everything from battery technology to bio science,
-                                    ├──  we are doing fantastically well in so many ways.
-                                    └──  [Q10 What would you (the PM) suggest for the current situation?]
-                                        ├──  And if only we could all come together, get Brexit over the line, I think that fevers would cool, tempers would come down.
-                                        └──  And it would be a great thing.
-                                            └──  [Q11 Do these claims add up?]
-                                                ├──  LK But you're suggesting that people ought to come together,
-                                                ├──  when transparently, you have been trying to create this idea of them and us,
-                                                ├──  you who want to get Brexit done, which you said every possible opportunity.
-                                                ├──  And the people on the other side, which you've just suggested, are only trying to hold you up and stop Brexit.
-                                                └──  [Q12 And that's transparent, you're trying to create a situation of them and us are you not?] 
-                                                    ├──  PM I think that the truth is, there's no way of getting Brexit done without, as it were, displeasing people who don't want Brexit to get done - no way of delivering Brexit, sort of 52% Brexit and 48% Remain, that's just logically impossible.
-                                                    ├──  And so that I think is, is the problem.
-                                                    └──  [Q13.1 How could this problem be overcome?]
-                                                        ├──  But I think once we get it done, and once we can begin building a new partnership with our new friends, once we can start thinking about how we can do things differently, how we can interact with the rest of the world, how we can recover on our impetus, our mojos, as a global outward looking... I think things will will go really well for us.
-                                                        └──  [Q13.2 How are things going as of now?]
-                                                            ├──  And they already are going very well for us.
-                                                            └──  [Q14 LK But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?]
-                                                                ├──  PM No, because obviously what the UK is going through is a big constitutional change.
-                                                                └──  [Q15 What is the constitutional change the UK is going through?]
-                                                                    ├──  The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive.
-                                                                    ├──  [Q16.1 How could this extrication from the European law be characterized?]
-                                                                    │   └──  It's a very complicated thing to do.
-                                                                    └──  [Q16.2 What is especially complicated?]
-                                                                        ├──  And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were.
-                                                                        └──  [Q17 LK Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?]
-                                                                            ├──  PM Well, I mean, if I made the the proposals are not yet made,
-                                                                            ├──  I probably ought to make them to the EU...
-                                                                            └──  [Q18 Is it true that the proposals have not not yet been made to the EU?]
-                                                                                ├──  LK But you know there are suggestions of what is out there, which you deny.
-                                                                                └──  [Q20 So how would you describe what you are trying to achieve?]
-                                                                                    ├──  PM What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do.
-                                                                                    ├──  If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality.
-                                                                                    └──  [Q21 And what will be the consequence, if the EU is going to insist on customs checks?]
-                                                                                        ├──  And there will have to be a system, for customs checks away from the border.
-                                                                                        ├──  [Q22 What would these border checks be like?]
-                                                                                        └──  Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.
+Q0: {What is the way things are?}
+└── Q1: {What events did the Prime Minister face recently?}
+    ├── Laura Kuenssberg Prime Minister, in the last few weeks, you've lost major votes in the Commons,
+    ├── you've chucked some MPs out of your own party,
+    ├── the highest court in the land has found you broke the law and gave the wrong advice to theQueen.
+    └── Q2: How do you (the PM) think this is going?
+        ├── Prime Minister Well, I think that it's going about as well as could be, especially, if not slightly better.
+        └── Q3: LK Really?
+            ├── PM Yeah.
+            ├── Q4.1: {Why is the current situation as good as it could be?}
+            │   └── Because look, this was always going to be a very difficult time.
+            └── Q4.2: {Why was this always going to be a difficult time?}
+                ├── What we've got, basically, is a situation in which the people voted for leaving the EU in the greatest expression of popular will in favour of any party or proposition in history.
+                ├── And, yes, there are many people in all sorts of positions, who don't think that was the right way to go.
+                └── Q5: {What is your (the PMs) job in this situation?}
+                    ├── And I am tasked with getting it over the line, getting Brexit done by October 31.
+                    └── Q6: {How is 'getting the Brexit done' working, with October 31 approaching?}
+                        ├── And I think we always knew that as we came up to that deadline, things would get choppy, but...
+                        └── Q7: LK You are blaming all of your woes on people who are trying to stop Brexit?
+                            ├── PM No, I think it's just the just the predicament, is just the it's just the situation, that we're in as a country.
+                            └── Q8: {How would you assess the situation that the UK is in as a country?}
+                                ├── And I think that things are actually much much better than they, than the political situation, might lead you to believe.
+                                └── Q9: {What makes you think that things are much better than one might believe?}
+                                    ├── Unemployment is at record lows.
+                                    ├── Foreign direct investment is at record highs.
+                                    ├── We're seeing this country at the cutting edge of innovation in everything from battery technology to bio science,
+                                    ├── we are doing fantastically well in so many ways.
+                                    └── Q10: {What would you (the PM) suggest for the current situation?}
+                                        ├── And if only we could all come together, get Brexit over the line, I think that fevers would cool, tempers would come down.
+                                        └── And it would be a great thing.
+                                            └── Q11: {Do these claims add up?}
+                                                ├── LK But you're suggesting that people ought to come together,
+                                                ├── when transparently, you have been trying to create this idea of them and us,
+                                                ├── you who want to get Brexit done, which you said every possible opportunity.
+                                                ├── And the people on the other side, which you've just suggested, are only trying to hold you up and stop Brexit.
+                                                └── Q12: And that's transparent, you're trying to create a situation of them and us are you not?
+                                                    ├── PM I think that the truth is, there's no way of getting Brexit done without, as it were, displeasing people who don't want Brexit to get done - no way of delivering Brexit, sort of 52% Brexit and 48% Remain, that's just logically impossible.
+                                                    ├── And so that I think is, is the problem.
+                                                    └── Q13.1: {How could this problem be overcome?}
+                                                        ├── But I think once we get it done, and once we can begin building a new partnership with our new friends, once we can start thinking about how we can do things differently, how we can interact with the rest of the world, how we can recover on our impetus, our mojos, as a global outward looking... I think things will will go really well for us.
+                                                        └── Q13.2: {How are things going as of now?}
+                                                            ├── And they already are going very well for us.
+                                                            └── Q14: LK But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?
+                                                                ├── PM No, because obviously what the UK is going through is a big constitutional change.
+                                                                └── Q15: {What is the constitutional change the UK is going through?}
+                                                                    ├── The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive.
+                                                                    ├── Q16.1: {How could this extrication from the European law be characterized?}
+                                                                    │   └── It's a very complicated thing to do.
+                                                                    └── Q16.2: {What is especially complicated?}
+                                                                        ├── And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were.
+                                                                        └── Q17: LK Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?
+                                                                            ├── PM Well, I mean, if I made the the proposals are not yet made,
+                                                                            ├── I probably ought to make them to the EU...
+                                                                            └── Q18: {Is it true that the proposals have not not yet been made to the EU?}
+                                                                                ├── LK But you know there are suggestions of what is out there, which you deny.
+                                                                                └── Q20: So how would you describe what you are trying to achieve?
+                                                                                    ├── PM What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do.
+                                                                                    ├── If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality.
+                                                                                    └── Q21: {And what will be the consequence, if the EU is going to insist on customs checks?}
+                                                                                        ├── And there will have to be a system, for customs checks away from the border.
+                                                                                        ├── Q22: {What would these border checks be like?}
+                                                                                        └── Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.
