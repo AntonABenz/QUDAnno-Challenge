@@ -44,7 +44,7 @@ Q0: {What is the way things are?}
 >>>Q1.2.10: {How does Susie feel [about her reflection]?}
 >>>>A1.2.10a: She suppresses a sigh 
 >>>>A1.2.10b: and the air sits heavy in her chest. 
->>>Q1.2.11: {What is Susie's ability to deal with negative things [like the air sitting heavy in her chest]?}
+>>>Q1.2.11: {What is Susie's ability to deal with discomfit [like the air sitting heavy in her chest]?}
 >>>>A1.2.11: Susie has a knack for ignoring discomfit. 
 >>>Q1.2.12: {What are the benefits of Susie's knack for ignoring discomfit?}
 >>>>A1.2.12: It comes in handy at the factory. 
@@ -67,7 +67,7 @@ Q0: {What is the way things are?}
 >>>Q1.2.20: {What does breathing in the bitter staleness do to her?}
 >>>>A1.2.20a: Her tongue is always wool. 
 >>>>A1.2.20b: In the dust-free factory, her mouth fills with the rat-grey feel of it. 
->>>Q1.2.21: {What does Susie's mouth do now?}
+>>>Q1.2.21: {What does Susie's mouth do at the present moment?}
 >>>>A1.2.21: She swallows the tea. 
 >>Q1.3: {Does Susie have time to do something else?}
 >>>A1.3: Even if it's a matinee, Mr Johnson will insist on dinner. 
@@ -85,7 +85,7 @@ Q0: {What is the way things are?}
 >>>>A1.4.4: She's not sure if they are Mrs Simpson's or if the taxi driver has female guests. 
 >>>>Q1.4.4.1: {Could the taxi driver have female guests?}
 >>>>>A1.4.4.1: Guests aren't allowed, of course, 
->>>>Q1.4.4.2: {Would the taxi driver still have guests?}
+>>>>Q1.4.4.2: {Would the taxi driver have guests despite being not allowed?}
 >>>>>A1.4.4.2: but Susie doesn't know enough about the taxi driver to know if he's the type to flaunt the rules.
 >>>Q1.4.5: {What does Susie do about the locked door to Mrs Simpson's room?}
 >>>>A1.4.5: She picks the lock to Mrs Simpson's room. 
@@ -108,18 +108,18 @@ Q0: {What is the way things are?}
 >>>Q1.4.14: {What does Susie think is the real reason Mrs Simpson decided to live with two immigrants?}
 >>>>Q1.4.14.1: {What are the conditions of the rental rooms?}
 >>>>>A1.4.14.1: Susie suspects it has something to do with the small rooms and the black mould that spots the wallpaper. 
->>>>Q1.4.14.2: {What are the additional arrangements?}
+>>>>Q1.4.14.2: {What are the additional rental conditions?}
 >>>>>Q1.4.14.2.1 {Who did Mrs Simpson look for in the interview for the room?}
 >>>>>>A1.4.14.2.1: Also, in her interview for the room, Mrs Simpson clearly stated she was looking for someone who works during the day. 
 >>>>>Q1.4.14.2.2: {Why was Mrs Simpson looking for someone who worked during the day?}
 >>>>>>A1.4.14.2.2a: She already had someone who worked during the night. 
 >>>>>>A1.4.14.2.2b: If she fell and broke her hip at midnight, she needed to know she could rely on the person to be in. 
->>>>Q1.4.14.3: {What does Susie think about these additional arrangements [with regard to potential renters]?}
+>>>>Q1.4.14.3: {What does Susie think about these additional rental conditions?}
 >>>>>A1.4.14.3: Susie thinks this sort of responsibility might put people off.
 >>>Q1.4.15: {What is Mrs Simpson's room like?}
 >>>>A1.4.15a: Like the factory, Mrs Simpson's room tries hard to be dust-free and clean,
 >>>>A1.4.15b: but it smells of urine. 
->>>Q1.4.16: {Why does Mrs Simpson's room smell like urin?}
+>>>Q1.4.16: {Why does Mrs Simpson's room smell like urine?}
 >>>>A1.4.16: Susie suspects Mrs Simpson wets the bed and doesn't know. 
 >>>Q1.4.17: {What about Susie's bladder?}
 >>>>A1.4.17: Susie can go a whole twelve-hour shift without the bathroom. 
@@ -128,7 +128,7 @@ Q0: {What is the way things are?}
 >>>Q1.4.19: {Why do the others use plastic bottles?}
 >>>>Q1.4.19.1: {What is the company policy for bathroom breaks?}
 >>>>>A1.4.19.1: The company allows for five-minute breaks every three hours, 
->>>>Q1.4.19.2: {Why do the others use bottles despite the five-minute breaks?}
+>>>>Q1.4.19.2: {Why do the others use urine bottles despite the five-minute breaks?}
 >>>>>A1.4.19.2: but it takes longer than that just to come back through decontamination.
 >>Q1.5: {What does Susie do fourth?}
 >>>A1.5: Susie hangs her towel on the radiator, curling her fingers around the warm bars. 
@@ -146,7 +146,7 @@ Q0: {What is the way things are?}
 >>>>A1.5.6: The flat crystals dissolve into oil that disappears in her dry palms. 
 >>>Q1.5.7: {What does Susie do with the flat crystals?}
 >>>>A1.5.7: She sprinkles some into the water. 
->>>Q1.5.8: {How many crystals are "some"?}
+>>>Q1.5.8: {What about the amount of crystals?}
 >>>>A1.5.8: Not as many as she would like, but some. 
 >>>Q1.5.9: {What else does Susie do [to smell nice smells]?}
 >>>>A1.5.9: She presses her nose to the clean towels stacked on the shelf. 
@@ -159,7 +159,7 @@ Q0: {What is the way things are?}
 >>>Q1.6.1: {What does [daydreaming with] the running tap remind Susie of?}
 >>>>A1.6.1: In the factory, the conveyor belts move with constant speed, greased silent. 
 >>>Q1.6.2: {What happens if Susie daydreams at the conveyor belt in the factory?}
->>>>Q1.6.2.1: {What does Susie think when she daydreams in the factory?
+>>>>Q1.6.2.1: {What does Susie think when she daydreams in the factory?}
 >>>>>A1.6.2.1a: If she's thinking of something else, like the seamless way her mother poured tea or her father's whiskers above her mother's delicate cups, she will think the belt has stopped. 
 >>>>>A1.6.2.1b: She will think the microchips are standing still
 >>>>Q1.6.2.2: {What does Susie hear while daydreaming at the factory?
@@ -171,7 +171,7 @@ Q0: {What is the way things are?}
 >>>>A1.6.3a: She slips into the water. 
 >>>>A1.6.3b: She inhales. 
 >>>>A1.6.3c: She prepares for the lavender memory of her mother's cheek against her forehead. 
->>>Q1.6.4: {How does the present compare to the memory of Susie's mother?}
+>>>Q1.6.4: {How does being in the lavender-scented bath compare to the memory of Susie's mother?}
 >>>>A1.6.4: But all she smells is chlorine and the wet-dogness of her towel. 
 >>>Q1.6.5: {How does Susie deal with the smell?}
 >>>>A1.6.5: Still, she resolves to enjoy it.
