@@ -41,7 +41,7 @@ Q0: {What is the way things are?}
 >>>A1.4a: In the kitchen window, she sees the red elastic mark below her hairline.
 >>>A1.4b: She suppresses a sigh
 >>>A1.4c: and the air sits heavy in her chest.
->>>Q15: {Wow does Susie feel about the air sitting heavy in her chest?}
+>>>Q15: {How does Susie feel about the air sitting heavy in her chest?}
 >>>>A15: Susie has a knack for ignoring discomfit.
 >>>>Q16: {What about Susie's knack for ignoring discomfit?}
 >>>>>A16a: It comes in handy at the factory.
@@ -53,9 +53,9 @@ Q0: {What is the way things are?}
 >>>>>>>A18: A single flake of dead skin can ruin a microchip.
 >>>>>>>Q19: {What about the factory?}
 >>>>>>>>A19: But the factory is also vacuum-dry
->>>>>>>>Q20: {Wow does the factory being vacuum-dry affect Susie?}
+>>>>>>>>Q20: {How does the factory being vacuum-dry affect Susie?}
 >>>>>>>>>A21: and she has to moisturise often.
->>>>>>>>>Q22: {Wow does she moisturise?}
+>>>>>>>>>Q22: {How does she moisturise?}
 >>>>>>>>>>A22: She can only afford sunflower oil.
 >>>>>>>>>>Q23: {What is a consequence of using sunflower oil to moisturise?}
 >>>>>>>>>>>A23: For the whole day, she breathes the bitter staleness of cooking oil trapped behind the mask.

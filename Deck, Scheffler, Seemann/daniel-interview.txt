@@ -1,10 +1,10 @@
 Q0: {What is the way things are?}
 >Q1: {What events did the Prime Minister face recently?}
->>Laura Kuenssberg Prime Minister, in the last few weeks, you've lost major votes in the Commons,
+>>Laura Kuenssberg: Prime Minister, in the last few weeks, you've lost major votes in the Commons,
 >>you've chucked some MPs out of your own party,
->>the highest court in the land has found you broke the law and gave the wrong advice to theQueen.
+>>the highest court in the land has found you broke the law and gave the wrong advice to the Queen.
 >>Q2: How do you (the PM) think this is going?
->>>Prime Minister Well, I think that it's going about as well as could be, especially, if not slightly better.
+>>>Prime Minister: Well, I think that it's going about as well as could be, especially, if not slightly better.
 >>>Q3: LK: Really?
 >>>>PM: Yeah.
 >>>>Q4.1: {Why is the current situation as good as it could be?}

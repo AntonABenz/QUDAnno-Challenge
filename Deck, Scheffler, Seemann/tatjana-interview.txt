@@ -2,7 +2,7 @@ Q0: {What is the way things are?}
 >Q1: {What has happened in the UK?}
 >>Laura Kuenssberg: Prime Minister, in the last few weeks, you've lost major votes in the Commons,
 >>you've chucked some MPs out of your own party,
->>the highest court in the land has found you broke the law and gave the wrong advice to theQueen.
+>>the highest court in the land has found you broke the law and gave the wrong advice to the Queen.
 >>Q1.1 How do you think this is going?
 >>>Prime Minister: Well, I think that it's going about as well as could be, especially, if not slightly better.
 >>>Q1.1.1 LK: Really?

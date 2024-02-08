@@ -118,7 +118,7 @@ Q0: {What is the way things are?}
 >>>>>>Susie suspects Mrs Simpson wets the bed and doesn't know.
 >>Q2.1.1: {What about Susies work?}
 >>>Susie can go a whole twelve-hour shift without the bathroom.
->>>Q2.1.2: {Can her coworkers to it too?}
+>>>Q2.1.2: {Can her coworkers do it too?}
 >>>>Some of the others use plastic bottles under the conveyor belt and inside their suits.
 >>>>Q2.1.3: {Why don't they simply use the restrooms?}
 >>>>>The company allows for five-minute breaks every three hours,
