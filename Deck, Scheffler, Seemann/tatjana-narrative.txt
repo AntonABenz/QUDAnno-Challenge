@@ -29,7 +29,7 @@ Q0: {What is the way things are?}
 >>>>>>Q12: {What would happen to Susie?}
 >>>>>>>Her skin would loose and crinkle.
 >>Q1.3: {What does Susie do third?}
->>>Q1.3.1: {Why is the tea fresh?} ## really a subquestion of Q4 or so
+>>>Q1.3.1: {Why is the tea fresh?}
 >>>>Mrs Simpson only makes fresh tea for Mr Johnson next door.
 >>>>Q13: {What is special about Mr Johnson's tea?}
 >>>>>One cup still contains a moss-smoke slick of whiskey.
