@@ -74,10 +74,8 @@ Q0: {What is the way things are?}
 >Q18: {Where will the custom checks happen?}
 >>A18: And there will have to be a system, for customs checks away from the border.
 >Q19: {What is the scope of the customs checks?}
->>A19: Now, we think those checks can be absolutely minimal and non-intrusive
->Q20: {Will the customs checks need extra effort?}
->>A20: and won't involve new infrastructure.
->Q21: {What will be the discussion point(s) with the EU?}
->>A21: But that is absolutely, Laura, that is where the argument is going to be.
->Q22: {What will the negotiations about custom checks be like?}
->>A22: And that's where the negotiation will be will be tough
+>>A19: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.
+>Q20: {What will be the discussion point(s) with the EU?}
+>>A20: But that is absolutely, Laura, that is where the argument is going to be.
+>Q21: {What will the negotiations about custom checks be like?}
+>>A21: And that's where the negotiation will be will be tough
