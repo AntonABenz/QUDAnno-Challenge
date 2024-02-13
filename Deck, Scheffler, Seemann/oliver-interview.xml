@@ -107,15 +107,12 @@
     <node surface="A18: And there will have to be a system, for customs checks away from the border." category="" />
   </node>
   <node surface="" category="Q19: {What is the scope of the customs checks?}">
-    <node surface="A19: Now, we think those checks can be absolutely minimal and non-intrusive" category="" />
+    <node surface="A19: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure." category="" />
   </node>
-  <node surface="" category="Q20: {Will the customs checks need extra effort?}">
-    <node surface="A20: and won't involve new infrastructure." category="" />
+  <node surface="" category="Q20: {What will be the discussion point(s) with the EU?}">
+    <node surface="A20: But that is absolutely, Laura, that is where the argument is going to be." category="" />
   </node>
-  <node surface="" category="Q21: {What will be the discussion point(s) with the EU?}">
-    <node surface="A21: But that is absolutely, Laura, that is where the argument is going to be." category="" />
-  </node>
-  <node surface="" category="Q22: {What will the negotiations about custom checks be like?}">
-    <node surface="A22: And that's where the negotiation will be will be tough" category="" />
+  <node surface="" category="Q21: {What will the negotiations about custom checks be like?}">
+    <node surface="A21: And that's where the negotiation will be will be tough" category="" />
   </node>
 </node>

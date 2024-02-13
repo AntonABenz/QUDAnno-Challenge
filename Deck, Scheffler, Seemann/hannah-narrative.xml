@@ -56,7 +56,7 @@
       <node surface="A1.4a: In the kitchen window, she sees the red elastic mark below her hairline." category="" />
       <node surface="A1.4b: She suppresses a sigh" category="" />
       <node surface="A1.4c: and the air sits heavy in her chest." category="" />
-      <node surface="" category="Q15: {Wow does Susie feel about the air sitting heavy in her chest?}">
+      <node surface="" category="Q15: {How does Susie feel about the air sitting heavy in her chest?}">
         <node surface="A15: Susie has a knack for ignoring discomfit." category="" />
         <node surface="" category="Q16: {What about Susie's knack for ignoring discomfit?}">
           <node surface="A16a: It comes in handy at the factory." category="" />
@@ -68,9 +68,9 @@
               <node surface="A18: A single flake of dead skin can ruin a microchip." category="" />
               <node surface="" category="Q19: {What about the factory?}">
                 <node surface="A19: But the factory is also vacuum-dry" category="" />
-                <node surface="" category="Q20: {Wow does the factory being vacuum-dry affect Susie?}">
+                <node surface="" category="Q20: {How does the factory being vacuum-dry affect Susie?}">
                   <node surface="A21: and she has to moisturise often." category="" />
-                  <node surface="" category="Q22: {Wow does she moisturise?}">
+                  <node surface="" category="Q22: {How does she moisturise?}">
                     <node surface="A22: She can only afford sunflower oil." category="" />
                     <node surface="" category="Q23: {What is a consequence of using sunflower oil to moisturise?}">
                       <node surface="A23: For the whole day, she breathes the bitter staleness of cooking oil trapped behind the mask." category="" />

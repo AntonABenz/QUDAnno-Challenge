@@ -39,36 +39,32 @@
                               <node surface="" category="Q13: {What follows from 52% Brexit and 48% Remain?}">
                                 <node surface="A13: And so that I think is, is the problem." category="" />
                                 <node surface="" category="Q14: {What can be done after the problem is solved?}">
-                                  <node surface="A14: But I think once we get it done, and once we can begin building a new partnership with our new friends, once we can start thinking about how we can do things differently, how we can interact with the rest of the world, how we can recover on our impetus, our mojos, as a global outward looking..." category="" />
-                                  <node surface="" category="Q15: {How does the Prime Minister evaluate this idea of building a new partnership with the new friends?}">
-                                    <node surface="" category="A15: I think things will will go really well for us.">
-                                      <node surface="" category="Q16: {How are things going now?}">
-                                        <node surface="A16: And they already are going very well for us." category="" />
-                                        <node surface="" category="Q17: LK: But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?">
-                                          <node surface="A17: PM: No," category="" />
-                                          <node surface="" category="Q18: {Why does the Prime Minister not think the last couple of months are anything like a normal situation?}">
-                                            <node surface="A18a: because obviously what the UK is going through is a big constitutional change." category="" />
-                                            <node surface="A18b: The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive." category="" />
-                                            <node surface="A18c:It's a very complicated thing to do." category="" />
-                                            <node surface="A18d: And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were." category="" />
-                                            <node surface="" category="Q19: LK: Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?">
-                                              <node surface="" category="Q20: {Are the proposals the Prime Minister was about to take to Brussels already made?}">
-                                                <node surface="A20a: PM: Well, I mean, if I made the the proposals are not yet made," category="" />
-                                                <node surface="A20b: I probably ought to make them to the EU..." category="" />
-                                                <node surface="" category="Q21: {How much is known about the proposals?}">
-                                                  <node surface="" category="A21: LK: But you know there are suggestions of what is out there, which you deny.">
-                                                    <node surface="" category="Q22: So how would you describe what you will put forward?">
-                                                      <node surface="" category="Q23: {What are the restrictions to what can a sovereign country can do?}">
-                                                        <node surface="A23a: PM: What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do." category="" />
-                                                        <node surface="A23b: If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality." category="" />
-                                                        <node surface="A23c: And there will have to be a system, for customs checks away from the border." category="" />
-                                                      </node>
-                                                      <node surface="" category="A22: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.">
-                                                        <node surface="" category="Q24: {How will the reaction to those checks be?}">
-                                                          <node surface="A24a: But that is absolutely, Laura, that is where the argument is going to be." category="" />
-                                                          <node surface="A24b: And that's where the negotiation will be will be tough" category="" />
-                                                        </node>
-                                                      </node>
+                                  <node surface="A14: But I think once we get it done, and once we can begin building a new partnership with our new friends, once we can start thinking about how we can do things differently, how we can interact with the rest of the world, how we can recover on our impetus, our mojos, as a global outward looking... I think things will will go really well for us." category="" />
+                                  <node surface="" category="Q15: {How are things going now?}">
+                                    <node surface="A15: And they already are going very well for us." category="" />
+                                    <node surface="" category="Q16: LK: But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?">
+                                      <node surface="A16: PM: No," category="" />
+                                      <node surface="" category="Q17: {Why does the Prime Minister not think the last couple of months are anything like a normal situation?}">
+                                        <node surface="A17a: because obviously what the UK is going through is a big constitutional change." category="" />
+                                        <node surface="A17b: The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive." category="" />
+                                        <node surface="A17c:It's a very complicated thing to do." category="" />
+                                        <node surface="A17d: And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were." category="" />
+                                        <node surface="" category="Q18: LK: Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?">
+                                          <node surface="" category="Q19: {Are the proposals the Prime Minister was about to take to Brussels already made?}">
+                                            <node surface="A19a: PM: Well, I mean, if I made the the proposals are not yet made," category="" />
+                                            <node surface="A19b: I probably ought to make them to the EU..." category="" />
+                                            <node surface="" category="Q20: {How much is known about the proposals?}">
+                                              <node surface="" category="A20: LK: But you know there are suggestions of what is out there, which you deny.">
+                                                <node surface="" category="Q21: So how would you describe what you will put forward?">
+                                                  <node surface="" category="Q22: {What are the restrictions to what can a sovereign country can do?}">
+                                                    <node surface="A22a: PM: What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do." category="" />
+                                                    <node surface="A22b: If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality." category="" />
+                                                    <node surface="A22c: And there will have to be a system, for customs checks away from the border." category="" />
+                                                  </node>
+                                                  <node surface="" category="A21: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.">
+                                                    <node surface="" category="Q23: {How will the reaction to those checks be?}">
+                                                      <node surface="A23a: But that is absolutely, Laura, that is where the argument is going to be." category="" />
+                                                      <node surface="A23b: And that's where the negotiation will be will be tough" category="" />
                                                     </node>
                                                   </node>
                                                 </node>

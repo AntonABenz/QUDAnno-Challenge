@@ -43,7 +43,7 @@
       </node>
     </node>
     <node surface="" category="Q1.3: {What does Susie do third?}">
-      <node surface="" category="Q1.3.1: {Why is the tea fresh?} ## really a subquestion of Q4 or so">
+      <node surface="" category="Q1.3.1: {Why is the tea fresh?}">
         <node surface="Mrs Simpson only makes fresh tea for Mr Johnson next door." category="" />
         <node surface="" category="Q13: {What is special about Mr Johnson's tea?}">
           <node surface="One cup still contains a moss-smoke slick of whiskey." category="" />

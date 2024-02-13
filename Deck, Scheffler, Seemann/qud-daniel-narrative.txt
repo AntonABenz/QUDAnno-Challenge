@@ -118,7 +118,7 @@ Q0: {What is the way things are?}
     │               └── Susie suspects Mrs Simpson wets the bed and doesn't know.
     ├── Q2.1.1: {What about Susies work?}
     │   ├── Susie can go a whole twelve-hour shift without the bathroom.
-    │   └── Q2.1.2: {Can her coworkers to it too?}
+    │   └── Q2.1.2: {Can her coworkers do it too?}
     │       ├── Some of the others use plastic bottles under the conveyor belt and inside their suits.
     │       └── Q2.1.3: {Why don't they simply use the restrooms?}
     │           ├── The company allows for five-minute breaks every three hours,
@@ -158,7 +158,9 @@ Q0: {What is the way things are?}
     │               └── Q1.10.4: {Doesn't she hear anything else?}
     │                   ├── and the only sound is her circling, oily breath.
     │                   └── Q1.10.5: {What will eventually disturb the silence?}
-    │                       └── Then she'll hear the sticky of a defect from further along the belt and she'll remember where she is.
+    │                       ├── Then she'll hear the sticky peel of a defect from further along the belt 
+    │                       └── Q1.10.6: {What will happen when she hears the sticky from a defect further down the belt?}
+    │                           └── and she'll remember where she is.
     └── Q1.11.1: {What does Susie do now, after she her hands through the running tap?}
         ├── She slips into the water.
         └── Q1.11.2: {What does she do directly after she slips into the water?}
@@ -179,4 +181,6 @@ Q0: {What is the way things are?}
                                     │   ├── She takes a deep breath.
                                     │   └── Exhales.
                                     └── Q1.11.10: {What is Susie going to do after she took the bath?}
-                                        └── After, she will change Mrs Simpson's sheets, and hopefully, Mrs Simpson will never know.
+                                        ├── After, she will change Mrs Simpson's sheets, 
+                                        └── Q1.11.11: {What will Susie think as she changes Mrs Simpson's sheets?}
+                                            └── and hopefully, Mrs Simpson will never know.

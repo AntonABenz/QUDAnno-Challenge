@@ -172,7 +172,7 @@
     </node>
     <node surface="" category="Q2.1.1: {What about Susies work?}">
       <node surface="Susie can go a whole twelve-hour shift without the bathroom." category="" />
-      <node surface="" category="Q2.1.2: {Can her coworkers to it too?}">
+      <node surface="" category="Q2.1.2: {Can her coworkers do it too?}">
         <node surface="Some of the others use plastic bottles under the conveyor belt and inside their suits." category="" />
         <node surface="" category="Q2.1.3: {Why don't they simply use the restrooms?}">
           <node surface="The company allows for five-minute breaks every three hours," category="" />
@@ -227,7 +227,10 @@
             <node surface="" category="Q1.10.4: {Doesn't she hear anything else?}">
               <node surface="and the only sound is her circling, oily breath." category="" />
               <node surface="" category="Q1.10.5: {What will eventually disturb the silence?}">
-                <node surface="Then she'll hear the sticky of a defect from further along the belt and she'll remember where she is." category="" />
+                <node surface="Then she'll hear the sticky peel of a defect from further along the belt " category="" />
+                <node surface="" category="Q1.10.6: {What will happen when she hears the sticky from a defect further down the belt?}">
+                  <node surface="and she'll remember where she is." category="" />
+                </node>
               </node>
             </node>
           </node>
@@ -255,7 +258,10 @@
                       <node surface="Exhales." category="" />
                     </node>
                     <node surface="" category="Q1.11.10: {What is Susie going to do after she took the bath?}">
-                      <node surface="After, she will change Mrs Simpson's sheets, and hopefully, Mrs Simpson will never know." category="" />
+                      <node surface="After, she will change Mrs Simpson's sheets, " category="" />
+                      <node surface="" category="Q1.11.11: {What will Susie think as she changes Mrs Simpson's sheets?}">
+                        <node surface="and hopefully, Mrs Simpson will never know." category="" />
+                      </node>
                     </node>
                   </node>
                 </node>
