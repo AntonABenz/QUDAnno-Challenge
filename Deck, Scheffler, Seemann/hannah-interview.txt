@@ -39,27 +39,27 @@ Q0: {What is the way things are?}
 >>>>>>>>>>>>>>>>A13: And so that I think is, is the problem.
 >>>>>>>>>>>>>>>>Q14: {What can be done after the problem is solved?}
 >>>>>>>>>>>>>>>>>A14: But I think once we get it done, and once we can begin building a new partnership with our new friends, once we can start thinking about how we can do things differently, how we can interact with the rest of the world, how we can recover on our impetus, our mojos, as a global outward looking... I think things will will go really well for us.
->>>>>>>>>>>>>>>>>>>Q15: {How are things going now?}
->>>>>>>>>>>>>>>>>>>>A15: And they already are going very well for us.
->>>>>>>>>>>>>>>>>>>>Q16: LK: But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?
->>>>>>>>>>>>>>>>>>>>>A16: PM: No,
->>>>>>>>>>>>>>>>>>>>>Q17: {Why does the Prime Minister not think the last couple of months are anything like a normal situation?}
->>>>>>>>>>>>>>>>>>>>>>A17a: because obviously what the UK is going through is a big constitutional change.
->>>>>>>>>>>>>>>>>>>>>>A17b: The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive.
->>>>>>>>>>>>>>>>>>>>>>A17c:It's a very complicated thing to do.
->>>>>>>>>>>>>>>>>>>>>>A17d: And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were.
->>>>>>>>>>>>>>>>>>>>>>Q18: LK: Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?
->>>>>>>>>>>>>>>>>>>>>>>Q19: {Are the proposals the Prime Minister was about to take to Brussels already made?}
->>>>>>>>>>>>>>>>>>>>>>>>A19a: PM: Well, I mean, if I made the the proposals are not yet made,
->>>>>>>>>>>>>>>>>>>>>>>>A19b: I probably ought to make them to the EU...
->>>>>>>>>>>>>>>>>>>>>>>>Q20: {How much is known about the proposals?}
->>>>>>>>>>>>>>>>>>>>>>>>>A20: LK: But you know there are suggestions of what is out there, which you deny.
->>>>>>>>>>>>>>>>>>>>>>>>>>Q21: So how would you describe what you will put forward?
->>>>>>>>>>>>>>>>>>>>>>>>>>>Q22: {What are the restrictions to what can a sovereign country can do?}
->>>>>>>>>>>>>>>>>>>>>>>>>>>>A22a: PM: What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>A22b: If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>A22c: And there will have to be a system, for customs checks away from the border.
->>>>>>>>>>>>>>>>>>>>>>>>>>>A21: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>Q23: {How will the reaction to those checks be?}
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>A23a: But that is absolutely, Laura, that is where the argument is going to be.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>A23b: And that's where the negotiation will be will be tough
+>>>>>>>>>>>>>>>>>Q15: {How are things going now?}
+>>>>>>>>>>>>>>>>>>A15: And they already are going very well for us.
+>>>>>>>>>>>>>>>>>>Q16: LK: But as things stand, are you prime minister sitting there and saying that the last couple of months is anything like a normal situation?
+>>>>>>>>>>>>>>>>>>>A16: PM: No,
+>>>>>>>>>>>>>>>>>>>Q17: {Why does the Prime Minister not think the last couple of months are anything like a normal situation?}
+>>>>>>>>>>>>>>>>>>>>A17a: because obviously what the UK is going through is a big constitutional change.
+>>>>>>>>>>>>>>>>>>>>A17b: The extrication, after 45 years of our legal system, from the orbit of European law, which is you know, has become very, very pervasive.
+>>>>>>>>>>>>>>>>>>>>A17c:It's a very complicated thing to do.
+>>>>>>>>>>>>>>>>>>>>A17d: And the most complex thing is clearly trying to unravel our relationship with the EU customs union and the EU single market, and the empire of the EU law as it were.
+>>>>>>>>>>>>>>>>>>>>Q18: LK: Let's talk about that. So let's be completely clear, under the proposals that you were about to take to Brussels, there would be extra checks on the island of Ireland, how and where?
+>>>>>>>>>>>>>>>>>>>>>Q19: {Are the proposals the Prime Minister was about to take to Brussels already made?}
+>>>>>>>>>>>>>>>>>>>>>>A19a: PM: Well, I mean, if I made the the proposals are not yet made,
+>>>>>>>>>>>>>>>>>>>>>>A19b: I probably ought to make them to the EU...
+>>>>>>>>>>>>>>>>>>>>>>Q20: {How much is known about the proposals?}
+>>>>>>>>>>>>>>>>>>>>>>>A20: LK: But you know there are suggestions of what is out there, which you deny.
+>>>>>>>>>>>>>>>>>>>>>>>>Q21: So how would you describe what you will put forward?
+>>>>>>>>>>>>>>>>>>>>>>>>>Q22: {What are the restrictions to what can a sovereign country can do?}
+>>>>>>>>>>>>>>>>>>>>>>>>>>A22a: PM: What I can say is that, and I think this is crucial for everybody to understand, because it's just the limit of what a sovereign country can can do.
+>>>>>>>>>>>>>>>>>>>>>>>>>>A22b: If the EU is going to insist on customs checks as we come out as it as it is, then we will have to accept that reality.
+>>>>>>>>>>>>>>>>>>>>>>>>>>A22c: And there will have to be a system, for customs checks away from the border.
+>>>>>>>>>>>>>>>>>>>>>>>>>A21: Now, we think those checks can be absolutely minimal and non-intrusive and won't involve new infrastructure.
+>>>>>>>>>>>>>>>>>>>>>>>>>>Q23: {How will the reaction to those checks be?}
+>>>>>>>>>>>>>>>>>>>>>>>>>>>A23a: But that is absolutely, Laura, that is where the argument is going to be.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>A23b: And that's where the negotiation will be will be tough
