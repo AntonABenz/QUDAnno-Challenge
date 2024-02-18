@@ -119,7 +119,7 @@ Q0: {What is the way things are?}
 >>>>>>>Q44: {Why do Susie's co-workes use plastic bottles?}
 >>>>>>>>A44a: The company allows for five-minute breaks every three hours,
 >>>>>>>>A44b: but it takes longer than that just to come back through decontamination.
->>Q1.8: {What does Susie do next}
+>>Q1.8: {What does Susie do next?}
 >>>A1.8: Susie hangs her towel on the radiator, curling her fingers around the warm bars.
 >>>Q45: {What does Susie see?}
 >>>>A45a: Along the shelves are glass jars of coloured salts,
@@ -136,13 +136,13 @@ Q0: {What is the way things are?}
 >>>>Q46: {What does Susie do with those jars?}
 >>>>>A46a: She sprinkles some into the water.
 >>>>>A46b: Not as many as she would like, but some.
->>Q1.9: {What does Susie do next}
+>>Q1.9: {What does Susie do next?}
 >>>A1.9: She presses her nose to the clean towels stacked on the shelf.
 >>>Q47: {what does Susie smell when she presses her nose to the clean towels?}
 >>>>A47: Washing powder and sunshine.
 >>>>Q48: {What does the smell make Susie think of?}
 >>>>>A48: Her own towel smells of old socks and the unwashed skin scent that leaks under the door of the taxi driver's room.
->>Q1.10: {What does Susie do next}
+>>Q1.10: {What does Susie do next?}
 >>>A1.10: She waves her hands through the steam of the running tap.
 >>>Q49: {What does the steam of the running tap make her think of?}
 >>>>A49: In the factory, the conveyor belts move with constant speed, greased silent.
@@ -153,7 +153,7 @@ Q0: {What is the way things are?}
 >>>>>Q51: {What happens when Susie does think of something else?}
 >>>>>>A51a: Then she'll hear the sticky peel of a defect from further along the belt
 >>>>>>A51b: and she'll remember where she is.
->>Q1.11: {What does Susie do next}
+>>Q1.11: {What does Susie do next?}
 >>>A1.11a: She slips into the water.
 >>>A1.11b: She inhales.
 >>>A1.11c: She prepares for the lavender memory of her mother's cheek against her forehead.
@@ -161,7 +161,7 @@ Q0: {What is the way things are?}
 >>>>A52: But all she smells is chlorine and the wet-dogness of her towel.
 >>>>Q53: {What does Susie think of the smell of chlorine?}
 >>>>>A53: Still, she resolves to enjoy it.
->>Q1.12: {What does Susie do next}
+>>Q1.12: {What does Susie do next?}
 >>>A1.12a: The water slinks past her skin, touches her lips.
 >>>A1.12b: She licks them dry.
 >>>A1.12c: She imagines her mother's perfectly brewed tea.
